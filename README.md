@@ -1,0 +1,2 @@
+As part of my ongoing effort to enhance my PowerShell and scripting skills, I embarked on this project to create a tool for automating file backups. The primary objective was to develop a script that securely backs up a designated folder from my desktop and compresses it to optimize storage space. Additionally, the tool includes functionality for scheduling recurring backups, ensuring regular and reliable data protection.
+
